@@ -1,0 +1,63 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-row{
+    width: 60vw;
+    border-radius: 2rem;
+    box-shadow: 19px 21px 23px 7px rgba(0,0,0,0.1);
+}
+.login-image{
+    margin: auto;
+    display: block;
+}
+.login-banner{
+    width: 100%;
+}
+.login-input{
+    padding: 2% 5%;
+}
+.title-section{
+    text-align: center;
+}
+.title-section a{
+    font-size: 25px;
+    margin: 6px;
+}
+.sign-in-or{
+    text-align: center;
+}
+.login-sign-in-btn{
+    width: 100%;
+    border-radius: 20px;
+}
+.login-dont-have-account{
+    border-top: 1px solid lightgray;
+}
+.login-dont-have-account p{
+    text-align: center;
+    margin-top: 4%;
+}
+.login-forgot-pass{
+    float: right;
+}
+.input-border-none{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+/* ant design customization */
+
+.ant-form-item-margin-bottom-fix{
+    margin-bottom: 10px !important;
+}
+
+.ant-title-margin-bottom-fix{
+    margin-bottom: 5px !important; 
+}
+
+.ant-form-item-label{
+    padding: 0 0 2px !important;
+}

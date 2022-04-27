@@ -1,0 +1,21 @@
+.add-product-form-container{
+    padding-right: 5rem;
+    padding-left: 5rem;
+}
+.name-input-group > div > div > div{
+    gap: 52px;
+    flex-wrap: wrap;
+    display: flex;
+}
+.add-product-form-btn{
+    width: 10%;
+    border-radius: 20px;
+}
+.product-description-field{
+    height: 100px;
+}
+.unit-input-group {
+    gap: 52px;
+    flex-wrap: wrap;
+    display: flex;
+}

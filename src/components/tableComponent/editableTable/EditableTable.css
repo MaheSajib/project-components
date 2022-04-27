@@ -1,0 +1,16 @@
+.table-edit-button{
+    padding: 4px 8px;
+    outline: none;
+    background-color: rgba(85, 105, 255, 0.1);
+    border: none;
+    color: rgb(85, 105, 255) !important;
+    font-size: 1rem;
+    border-radius: 8px;
+}
+.table-edit-button:hover{
+    background-color: rgb(85, 105, 255);
+    color: rgb(255, 255, 255) !important;
+}
+.ant-table-row td{
+    padding: 7px !important;
+}
